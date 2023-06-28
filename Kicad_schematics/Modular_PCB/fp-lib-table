@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Mini_Tv_ESP32")(type "KiCad")(uri "${KIPRJMOD}/Mini_Tv_ESP32.pretty")(options "")(descr ""))
+)
