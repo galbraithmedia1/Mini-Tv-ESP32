@@ -3,7 +3,7 @@ Project Files for ESP32 Mini TV
 
 ## Youtube Link: https://youtu.be/0K-EbKkWLTA
 
-## There seems to be some issues reguarding the libhelix library. I have a working version in the code provided. Make sure that is unziped in the libraries folder and you should be good. 
+## 🔥 There seems to be some issues reguarding the libhelix library. I have a working version in the code provided. Make sure that is unziped in the libraries folder and you should be good. 
 
 
 ![esp-32 (3)](https://github.com/galbraithmedia1/Mini-Tv-ESP32/assets/59584919/4e73a091-7dba-4999-b06c-9f5ec7cf4b24)
