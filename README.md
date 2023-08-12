@@ -20,13 +20,20 @@ FFmpeg: https://ffmpeg.org/download.html#build-mac
 
 Schematics: https://res.cloudinary.com/dfkr6nbxf/image/upload/v1687123459/Youtube/Minitv_fh03s0.png
 
-Parts LINKS: 
+## Parts LINKS: 
 
-Micro sd: https://www.amazon.com/gp/product/B0B87QQZD3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Amplifier:  https://www.amazon.com/gp/product/B0B4GK5R1R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Esp32: https://www.amazon.com/gp/product/B08246MCL5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-TFT Screen:  https://www.aliexpress.us/item/3256803567938962.html?spm=a2g0o.order_list.order_list_main.149.79261802r8tWpv&gatewayAdapt=glo2usa
-Speaker: https://www.aliexpress.com/w/wholesale-24-mm-Full-Range-Audio-Speaker.html
+- Micro sd [Amazon](https://www.amazon.com/gp/product/B0B87QQZD3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+![MicroSd_reference](./images/Micro_SD.png)
+- Amplifier [Amazon](https://www.amazon.com/gp/product/B0B4GK5R1R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+![Amp_reference](./images/Max98357.png)
+
+- Esp32 [Amazon](https://www.amazon.com/gp/product/B08246MCL5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- TFT Screen [Aliexpress](https://www.aliexpress.us/item/3256803567938962.html?spm=a2g0o.order_list.order_list_main.149.79261802r8tWpv&gatewayAdapt=glo2usa)
+
+- Speaker [Aliexpress](https://www.aliexpress.com/w/wholesale-24-mm-Full-Range-Audio-Speaker.html)
 
 
 
